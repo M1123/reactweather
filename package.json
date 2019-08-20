@@ -7,6 +7,10 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M1123/reactweather.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
