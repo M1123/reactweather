@@ -1,0 +1,25 @@
+.Search{
+    margin: auto;
+    padding: 50px;
+    width: 50%;
+}
+.item{
+    padding: 10px;
+    outline: none;
+    font-family: Tahoma;
+}
+.input{
+    width: 80%;
+    border-radius: 3px 0 0 3px;
+    -webkit-border-radius: 3px 0 0 3px;
+    -moz-border-radius: 3px 0 0 3px;
+    -khtml-border-radius: 3px 0 0 3px;
+}
+.button{
+    border-radius: 0 3px 3px 0 ;
+    -webkit-border-radius: 0 3px 3px 0;
+    -moz-border-radius: 0 3px 3px 0;
+    -khtml-border-radius: 0 3px 3px 0;
+    background-color: #C8643F;
+
+}

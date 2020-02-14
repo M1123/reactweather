@@ -1,0 +1,10 @@
+.Main{
+    width: 100%;
+}
+.Wrapper{
+    display: grid;
+    grid-area: auto;
+}
+.card{
+
+}

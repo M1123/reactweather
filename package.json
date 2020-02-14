@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:M1123/reactweather.git"
+    "url": "git+git@github.com:M1123/reactweather.git."
   },
   "scripts": {
     "start": "react-scripts start",
